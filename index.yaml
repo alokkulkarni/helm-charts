@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  springboot-helm:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-12-29T07:46:36.162308Z"
+    description: A Helm chart for Kubernetes with springboot. a simple web app with
+      hello endpoint
+    digest: ae1832b13f4d1bfbb8571be51f2f58a3b1ebe3f608d59dd17a241a990faee3fa
+    name: springboot-helm
+    type: application
+    urls:
+    - https://alokkulkarni.github.io/helm-chart/springboot-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-29T07:46:36.161487Z"
