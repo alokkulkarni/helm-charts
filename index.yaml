@@ -10,6 +10,6 @@ entries:
     name: springboot-helm
     type: application
     urls:
-    - https://alokkulkarni.github.io/helm-chart/springboot-helm-0.1.0.tgz
+    - https://alokkulkarni.github.io/helm-charts/springboot-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2023-12-29T07:46:36.161487Z"
